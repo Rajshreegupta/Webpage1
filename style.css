@@ -1,0 +1,68 @@
+
+*{
+    margin: 10px;
+}
+html{
+    margin-top: 35px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.sideline{
+    border-left: 10px solid rgb(189, 188, 192);
+    /* border-spacing: 25px; */
+    padding: 10px;
+}
+
+h4{
+    font-size: 25px;
+    color: rgb(45, 45, 151);
+    font-weight: 500;
+    white-space: pre-wrap;
+    
+}
+h2{
+    font-size: 35px;
+    font-weight: 700;
+}
+.myblogpage{
+    border: 30px solid rgb(189, 188, 192);
+    font-family: Arial;
+    padding: 20px;
+    font-size: 20px;
+}
+
+hr.new1{
+    border-left: 2px solid rgb(93, 93, 97);
+    /* border-bottom: 1px solid gray; */
+}
+
+nav{
+    background-color: rgb(59, 57, 57);
+    font-family: Arial;
+    position: fixed;
+    width: 1289px;
+    top: 0;
+    display: flex;
+    min-height: 60px;
+    justify-content:left;
+    /* margin-top: 35px;
+    /* margin-left: 95px; */
+    /* margin-right: 200px; */
+    
+}
+
+#firstnav{
+    margin-left: 55px;
+}
+
+a{
+    color:white;
+    font-size: 1.4rem;
+    text-decoration: none;
+    
+}
+div{
+    background-image: url('https://images.unsplash.com/photo-1596308045155-86f512e9e19b?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8NnNNVmpUTFNrZVF8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+    height: 800px;
+}
